@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bsai14341.github.io/best-fortnite-fps-optimization-settings-tips/sitemap.xml
